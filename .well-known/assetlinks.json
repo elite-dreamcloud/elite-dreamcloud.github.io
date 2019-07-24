@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.dreamdb.PhotoOrganizer",
+               "sha256_cert_fingerprints": ["F3:54:89:D6:16:8B:F5:04:AA:1F:14:F2:EA:F8:7F:87:12:2E:79:21:CE:48:80:C5:DA:02:F5:88:95:D1:33:C1"] }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.dreamdb.PhotoOrganizer",
                "sha256_cert_fingerprints": ["9C:80:1E:2A:61:C7:30:78:8E:2F:B3:35:93:3A:27:18:FB:9E:EE:B0:98:62:5D:14:99:76:AD:19:9C:D7:45:84"] }
 }]
